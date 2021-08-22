@@ -3,7 +3,7 @@
 int main()
 {
     int last = 1;
-	for (int i = 1; i * i <= 100; i++) {
+    for (int i = 1; i * i <= 100; i++) {
         int square = i * i;
 
         if (i == 1) {
